@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_dessert_recipe_fragment">Hello Dessert recipe Fragment</string>
+    <string name="hello_pastries_recipe_fragment">Hello Pastries Recipe Fragment</string>
+    <string name="hello_stores_fragment">Hello Stores Fragment</string>
+
+
+    <string name="tab_label_1">Desserts</string>
+    <string name="tab_label_2">Pastries</string>
+    <string name="tab_label_3">Stores</string>
+    <string name="desserts_recipes">Desserts Recipes</string>
+    <string name="browse_recipes">Browse Recipes</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="prep_cook_time_2hrs"><![CDATA[Prep & Cook Time: 2hrs]]></string>
+    <string name="recipe_short_description">Recipe Short Description</string>
+    <string name="how_to_prepare_donuts">How to prepare Donuts</string>
+
+    <array name="desserts_images">
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+        <item>@drawable/banofipie</item>
+        <item>@drawable/fudge</item>
+        <item>@drawable/cupcake</item>
+        <item>@drawable/cookie</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+    </array>
+
+    <string-array name="dessert_titles">
+        <item>Donut </item>
+        <item>Froyo </item>
+        <item>Banofipie </item>
+        <item>Fudge </item>
+        <item>Cup Cake </item>
+        <item>Cookie </item>
+        <item>Donut </item>
+        <item>Froyo </item>
+    </string-array>
+
+    <string-array name="dessert_description">
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is premium Yogurt</item>
+        <item>Is a delicacy with milk,caramel, banana and biscuit</item>
+        <item>Cake with tasty chocolate glaze</item>
+        <item>Melt in mouth Cake</item>
+        <item>Fresh delicious Cookie</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is premium Yogurt</item>
+    </string-array>
+
+
+    <array name="pastry_images">
+        <item>@drawable/chocolate</item>
+        <item>@drawable/croissant</item>
+        <item>@drawable/danish</item>
+        <item>@drawable/meatpie</item>
+        <item>@drawable/puff</item>
+        <item>@drawable/rosemary</item>
+    </array>
+
+    <string-array name="pastry_titles">
+        <item>Chocolate Pastry </item>
+        <item>Croissant </item>
+        <item>Danish Pastry </item>
+        <item>Meat Pie </item>
+        <item>Puff Pastry </item>
+        <item>Rosemary Pastry </item>
+    </string-array>
+
+    <string-array name="pastry_description">
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is premium Yogurt</item>
+        <item>Is a delicacy with milk,caramel, banana and biscuit</item>
+        <item>Cake with tasty chocolate glaze</item>
+        <item>Melt in mouth Cake</item>
+        <item>Fresh delicious Cookie</item>
+    </string-array>
+
+
+
+
+
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="finding_your_delicacies">Finding your Delicacies</string>
+    <string name="pizzas">Pizzas</string>
+    <string name="cocktails">Cocktails</string>
+    <string name="pasta">Pasta</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="share_app">Share App</string>
+
+
+</resources>
